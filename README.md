@@ -1,1 +1,1 @@
-This foldert contain C# projects
+# InheritanceExample
